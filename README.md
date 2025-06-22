@@ -1,1 +1,1 @@
-# ML--Projects
+Built a classification model to predict water quality based on key parameters. Preprocessed data using Pandas & NumPy, applied feature scaling, and trained the model using Logistic Regression / Random Forest / XGBoost (mention the model used). Optimized accuracy through hyperparameter tuning and deployed the model using Pickle. 
